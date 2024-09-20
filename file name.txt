@@ -1,0 +1,16 @@
+streamlit run "D:\ML project\multiple disease pred.py"
+
+
+
+streamlit run "D:\ML project\GEMINI.py"
+
+streamlit run "D:\ML project\first.py"
+
+
+
+
+streamlit run "D:\ML project\LOGIN.py"
+
+
+to extract the file for .sav
+https://colab.research.google.com/
